@@ -1,10 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://github.com/alexandre-croteau/alexandre-croteau/blob/master/octocat.png" alt="Octocat" width=350px height=350px/>
+
+### 👋
 
 <!--
-**alexandre-croteau/alexandre-croteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
