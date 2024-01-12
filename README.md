@@ -2,7 +2,7 @@
 
 ### Hi, i'm Alex :neckbeard:
 
-I’m an developer and currently work at [Cascades](https://cascades.com).
+I’m a developer and currently work at [Cascades](https://cascades.com).
 
 <!--
 👋
